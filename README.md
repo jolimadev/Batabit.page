@@ -1,4 +1,6 @@
-#Batabit Exchange
+#Batabit Exchange  <img src= http://unmaintained.tech/badge.svg /> 
+
+<img src= https://img.shields.io/website-up-down-green-red/http/monip.org.svg />
  # Pagina inicial para empresa Batabit. (Proyecto realizado para aprobar curso de resposive design en la empresa Platzi),
 https://olimajs.github.io/Batabit.page/ 
 
